@@ -3,19 +3,15 @@
   "source": {
     "https": "https://github.com/uttahb/thalaltest5.git",
     "ssh": "git@github.com:uttahb/thalaltest5.git",
-    "branch": "block_addTodo"
+    "branch": "block_test_addTodo"
   },
   "language": "nodejs",
   "start": "node index.js",
   "build": "npm run build",
   "postPull": "npm i",
-  "name": "addTodo",
-  "supportedAppblockVersions": [
-    "1.0.0"
-  ],
+  "name": "test_addTodo",
+  "supportedAppblockVersions": ["1.0.0"],
   "blockId": "b0XinUMoF-WO_D5kUTfqw",
   "isPublic": true,
-  "parentBlockIDs": [
-    "JGM65ID-Liydp80g0BBAm"
-  ]
+  "parentBlockIDs": ["JGM65ID-Liydp80g0BBAm"]
 }
