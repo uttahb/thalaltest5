@@ -16,7 +16,7 @@
     "todoContainer": {
       "directory": "todoContainer"
     },
-    "addTodo": {
+    "test_addTodo": {
       "directory": "addTodo"
     },
     "listTodos": {
@@ -32,8 +32,6 @@
   "blockId": "JGM65ID-Liydp80g0BBAm",
   "parentBlockIDs": [],
   "isPublic": true,
-  "supportedAppblockVersions": [
-    "1.0.0"
-  ],
+  "supportedAppblockVersions": ["1.0.0"],
   "repoType": "mono"
 }
