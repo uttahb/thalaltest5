@@ -2,8 +2,8 @@
   "name": "todoInput",
   "type": "ui-elements",
   "source": {
-    "https": "",
-    "ssh": "",
+    "https": "https://github.com/uttahb/thalaltest5.git",
+    "ssh": "git@github.com:uttahb/thalaltest5.git",
     "branch": "block_todoInput"
   },
   "language": "js",

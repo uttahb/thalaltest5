@@ -2,8 +2,8 @@
   "name": "thalaltest5",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/uttahb/thalaltest5.git",
+    "ssh": "git@github.com:uttahb/thalaltest5.git",
     "branch": "block_thalaltest5"
   },
   "dependencies": {
